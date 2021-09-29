@@ -1,7 +1,6 @@
 # About the project
 
-Here a Movie Webpage, the landing page is showing the last movie in the box office.
-Each movies got a description and a video trailer.    
+Here a real estate landing page, with a carrousel of images. 
 
 The project includes the following features:     
 - 1️⃣ Main page.
